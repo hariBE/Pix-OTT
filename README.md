@@ -24,6 +24,7 @@ Admin can change the top 5 movie order, mark a movie as non-available and update
 > ![image](https://user-images.githubusercontent.com/92349708/166426737-b4952a1d-4fbc-42f6-8d37-9a8a7be49f0d.png)
 * Now go to the folder which is created and in the fileaddress type cmd.
 > ![Screenshot 2022-05-03 142035](https://user-images.githubusercontent.com/92349708/166427155-313424e0-913f-49d2-9109-112bfd3924d1.jpg)
+> https://www.google.com/search?q=cmd+images&rlz=1C1JJTC_enIN987IN987&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjn9uurgMb3AhWDILcAHepbDrEQ_AUoAXoECAEQAw&biw=1280&bih=689&dpr=1#imgrc=yfcVkK0obNYcmM
 * In the commandline enter the code .
 > **git clone https://github.com/hariBE/Pix-OTT**
 > 
