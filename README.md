@@ -30,7 +30,7 @@ Admin can change the top 5 movie order, mark a movie as non-available and update
 * It will start to copy the file.
 * After completing this step open the STS and select the folder.
 * Now click File->New->Java project.
-* Now give the project name as **Pix_OTT**.
+* Now give the project name as **Pix-OTT**.
 * Now you can able to see all the packages in the left side by expanding the folder.
 ## Usage
 * To run the application expand the **com.revature.app** package and there will be a java file APP.java
