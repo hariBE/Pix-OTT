@@ -1,17 +1,15 @@
 # Pix-OTT
 ## Description
-Pix is an imaginary “Over The Top” (OTT) platform. Build an app for this OTT platform as a console-based application using Java, JDBC and MySQL database. 
-Customers can sign up, login, view top 5 movies, search movie, play a movie, add a movie to wish list and view the watch history. 
-Admin can change the top 5 movie order, mark a movie as non-available and update movie details.
+Pix is an imaginary “Over The Top” (OTT) platform. Build an app for this OTT platform as a console-based application using Java, JDBC and MySQL database. Customers can sign up, login, view top 5 movies, search movie, play a movie, add a movie to wish list and view the watch history. Admin can change the top 5 movie order, mark a movie as non-available and update movie details.
 ## Technologies used
 * Java - version 8
 * MySQL - version 8.0.28
 * JDBC - version 8
 ## Features and Improvments
 ### Features
-* Movie search based keyword and name.
+* Movie search based on keyword and moviename.
 * Top 5 movies will be displayed.
-* Can identify who is admin and who is user while login.
+
 ### Improvements
 * Movie search based on audience score
 * Wislist removal .
@@ -24,14 +22,12 @@ Admin can change the top 5 movie order, mark a movie as non-available and update
 > ![image](https://user-images.githubusercontent.com/92349708/166426737-b4952a1d-4fbc-42f6-8d37-9a8a7be49f0d.png)
 * Now go to the folder which is created and in the fileaddress type cmd.
 > ![Screenshot 2022-05-03 142035](https://user-images.githubusercontent.com/92349708/166427155-313424e0-913f-49d2-9109-112bfd3924d1.jpg)
-> https://www.google.com/search?q=cmd+images&rlz=1C1JJTC_enIN987IN987&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjn9uurgMb3AhWDILcAHepbDrEQ_AUoAXoECAEQAw&biw=1280&bih=689&dpr=1#imgrc=yfcVkK0obNYcmM
 * In the commandline enter the code .
-> **git clone https://github.com/hariBE/Pix-OTT**
-> 
+> **git clone https://github.com/hariBE/pixott**
 * It will start to copy the file.
 * After completing this step open the STS and select the folder.
 * Now click File->New->Java project.
-* Now give the project name as **Pix-OTT**.
+* Now give the project name as **Pixott**.
 * Now you can able to see all the packages in the left side by expanding the folder.
 ## Usage
 * To run the application expand the **com.revature.app** package and there will be a java file APP.java
